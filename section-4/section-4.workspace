@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section-4" Database="" Version="10000">
+  <Project Name="project-1" Path="project-1/project-1.project" Active="No"/>
+  <Project Name="project-2" Path="project-2/project-2.project" Active="No"/>
+  <Project Name="first-program" Path="first-program/first-program.project" Active="No"/>
+  <Project Name="challenge-1" Path="challenge-1/challenge-1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="project-1" ConfigName="Debug"/>
+      <Project Name="project-2" ConfigName="Debug"/>
+      <Project Name="first-program" ConfigName="Debug"/>
+      <Project Name="challenge-1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="project-1" ConfigName="Release"/>
+      <Project Name="project-2" ConfigName="Release"/>
+      <Project Name="first-program" ConfigName="Release"/>
+      <Project Name="challenge-1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
