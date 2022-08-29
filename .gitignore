@@ -1,4 +1,8 @@
 # Prerequisites
+.vscode
+main
+main.dSYM
+Info.plist
 *.d
 
 # Compiled Object files
